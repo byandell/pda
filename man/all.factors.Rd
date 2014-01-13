@@ -23,10 +23,14 @@ all.predictors(object, data)
 \examples{
 \dontrun{
 fit <- lm(y~x+a*b,data)
-# return c("a","b")all.factors(fit)
-# return "x"all.covars(fit)
-# return c("x","a","b")all.predictors(fit)
-# return "y"model.response(fit)
+# return c("a","b")
+all.factors(fit)
+# return "x"
+all.covars(fit)
+# return c("x","a","b")
+all.predictors(fit)
+# return "y"
+model.response(fit)
 }
 }
 % Converted by  version .

@@ -5,18 +5,19 @@
 data(BrandX)
 }
 \description{These are results of a detergent brand preference study, with
-    respondents classified by temperature and softness used during their
-    wash cycle. Venables and Ripley call \code{Brand} the response
-    factor and \code{M.user}, \code{Temp} and \code{Soft} stimulus
-    factors. Thus they are most interested in \code{Brand} and in
-    interactions that involve \code{Brand}.}
+  respondents classified by temperature and softness used during their
+  wash cycle. Venables and Ripley call \code{Brand} the response
+  factor and \code{M.user}, \code{Temp} and \code{Soft} stimulus
+  factors. Thus they are most interested in \code{Brand} and in
+  interactions that involve \code{Brand}.}
 \source{Ries and Smith (1963) The use of chi-square for preference
-    testing in multidimensional problems. \emph{Chemical Engineering
-	Progress 59}, 39-43.}
-    \references{
-      \item{Venables and Ripley (1999)}{\emph{Modern Applied Statistics
-	with S-PLUS}, 2nd ed., ch. 7. (this is \emph{not} in the 3rd ed)}
-    \item{Cox and Snell (1989)}{\emph{Analysis of Binary Data}, Chapman \& Hall.}}
+  testing in multidimensional problems. \emph{Chemical Engineering
+    Progress 59}, 39-43.}
+\references{
+  Venables and Ripley (1999) \emph{Modern Applied Statistics
+      with S-PLUS}, 2nd ed., ch. 7. (this is \emph{not} in the 3rd ed)
+    Cox and Snell (1989) \emph{Analysis of Binary Data}, Chapman \& Hall.
+}
 \examples{
 # Four-way Contingency Table
 

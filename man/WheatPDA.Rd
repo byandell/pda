@@ -3,7 +3,6 @@
 \title{Wheat virus in plant sap}
 \usage{
 data(WheatPDA)
-data(BactRoom)
 }
 \format{
     Wheat data frame with 192 observations on 8 variables.
@@ -16,17 +15,6 @@ data(BactRoom)
 	[,6] \tab leg \tab   numeric \tab leg length\cr
 	[,7] \tab code \tab  factor \tab plot code\cr
 	[,8] \tab trt \tab   trt \tab bact*trt combination
-    }
-    BactRoom data frame with 2685 observations on 8 variables.
-    \tabular{rlll}{
-	[,1] \tab ploidy \tab ordered \tab ploidy number \cr
-	[,2] \tab species \tab  factor \tab species name \cr
-	[,3] \tab cross \tab  factor \tab cross identifier\cr
-	[,4] \tab accession \tab factor \tab accession number\cr
-	[,5] \tab plant \tab factor \tab plant number\cr
-	[,6] \tab tr1 \tab  numeric \tab trial 3 yield\cr
-	[,7] \tab tr2 \tab  numeric \tab trial 3 yield\cr
-	[,8] \tab tr3 \tab  numeric \tab trial 3 yield
     }
 }
 \description{An agronomist (Katsiotis 1993) studied the effect

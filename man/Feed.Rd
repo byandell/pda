@@ -23,7 +23,7 @@ a control and another additive (0.5\% \code{LA}), which were labelled,
 respectively, as 1, 2, 3, 4.  The initial concern was the tremendous
 differences in spread of \code{weight gain} for the four treatments.
 Plots of \code{weight gain} against \code{feed intake} (Figure
-\ref{fig:feedcov}) showed that this could be readily explained by
+XX) showed that this could be readily explained by
 \code{feed intake}.  The \code{feed intake} slope is significant
 (\emph{p} = 0.0088), as is the difference between \code{LA} and
 \code{CLA} (\emph{p} = 0.0082) and the linear effect of \code{\%CLA}

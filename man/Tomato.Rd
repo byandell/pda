@@ -20,8 +20,8 @@ plant entries (\code{entry}).  There were several replications each
 year.  Unfortunately, the data now available to the scientist consists
 of the mean fruit weight (\code{mfw}), averaged across the replicates
 for each year.  [The raw data are in notebooks halfway around the
-world!]  The scientist believes a $\log_{10}$ transformation ({\tt
-mfwlog}) is reasonable, and has presented that data in that way.
+world!]  The scientist believes a \code{log10} transformation
+(\code{mfwlog}) is reasonable, and has presented that data in that way.
 
 Nevertheless there are still 2 years of data for most entries.  The
 marker \code{tg430} can be used to classify entries into one of three
