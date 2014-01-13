@@ -1,5 +1,4 @@
 \name{int.plot.lm}
-\alias{lsd.plot.lm}
 \alias{ci.plot.lm}
 \alias{ci.plot.lme}
 \alias{ci.plot.lmer}
