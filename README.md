@@ -14,4 +14,5 @@ You will also need pdflatex, which means you need a TeX distribution such as Mik
 You can now install this or other libraries from github. For PDA library, do the following:
 
 > library(devtools)
+
 > install_github("pda", "byandell")
