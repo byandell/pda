@@ -1,0 +1,86 @@
+BactRoom                Bacteria Virus in Plant Sap by Room
+Bacteria                Bacteria virus in plant sap
+Berry                   Cranberry Energy Balance
+BrandX                  Preference for Brand X Detergent
+Brassica                Brassica Response to Herbicide
+Budworm                 Counting Data: Sex Response to Dose
+Cloning                 Cloning virus in plant sap
+Count                   Counting Data Examples
+Diet                    Diet Effect on Dry Matter Intake
+Drink                   Water Temperature Effect on Cow Drinking
+Drying                  Water Temperature Effect on Cow Dryinging
+Feed                    Feed Intake and Weight Gain
+Forage                  Forage Effect on Dry Matter Intake
+Growth                  Growth Medium for Plant Tissue
+GrowthCount             Counting Data for Growth Medium
+Hardy                   Cold Hardiness Adaptation
+Oocyte                  Oocyte Development
+Random                  Random Data Examples
+Ranslopes               Water Temperature Effect on Cow Ranslopesing
+Rantwo                  Random Two-Factor Data Example
+Running                 Running and Oxygen Consumption
+Teaching                Teaching Ancova in Split Plot Designs
+Tomato                  Tomato data to find genes for growth
+Tree                    Tree Weed Suppression over Time
+Tukey                   Tukey & Mandel Interactions
+Wasp                    Wasp Shape of Queens and Workers
+WeightsPDA              WeightsPDA Effect on Dry Matter Intake
+Wheat                   Wheat virus in plant sap
+all.factors             determine names of all factors, covariates,
+                        predictors (factors & covariates)or response
+                        used in model fit
+box.fig                 draw boxplot figure at specified position
+branch                  Branch Plot for Nested Effects
+ci.width                utility functions for ci.plot
+cor.coef                correlation, covariance, or standard errors of
+                        model coefficients
+df.resid                residual degrees of freedom
+dotna                   Reinterpret "." as NA in dataframe
+effect.fit              Effects Plot
+circle                  draw circles and ellipses
+factor.labels           determine labels for all factors used in model
+                        fit
+get.list                get elements of data with names in factors
+ps                      UNIX interfaces to printers
+harmonic.mean           harmonic mean of numeric vector
+lsd.plot                Generic Interaction Plots of Response with
+                        Interval Bars
+int.plot.default        Interaction Plots of Response with Interval
+                        Bars
+int.plot.lm             Linear Model-driven Interaction Plots of
+                        Response with Interval Bars
+lpq                     UNIX interfaces to printers
+lsmean                  Least Squares Means
+margin.plot             Margin Plots of Response for Pairs of Factors
+margin.plot.lm          Margin Plots of Response for Pairs of Factors
+                        in Linear Model
+mplot                   Multiple Plots (Points, Lines) by Group
+mqqnorm                 Multiple Q-Q Normal and Half-Normal Plots by
+                        Group
+nested                  nested weighted means for experimental units
+nested.tree             draw nested tree
+pdiff                   Table of p-values for Differences of Least
+                        Squares Means
+pletter                 Letters for Means that are not Significantly
+                        Different
+plotter                 graphics device selection based on environment
+                        variables
+precision               round value to precision
+pvalue.ellipse          Center and Radius for p-value Ellipses
+sample.size             compute sample size by group
+se.bar                  Standard Error and Fisher's LSD Bars for
+                        Interaction Plots
+split.plot              ~function to do ???
+std.dev                 standard deviation of object
+trans.plot              Diagnostic plot to find power transform to
+                        remove interaction. See Emerson chapter in
+                        Hoaglin, Mosteller and Tukey (1991, ch. 13E)
+                        Fundamentals of Exploratory Analysis of
+                        Variance (Wiley);or see Mosteller and Tukey
+                        (1977, ch. 9E,F) Exploratory Data Analysis
+                        (Addison-Wesley).
+tukey.plot              Tukey/Mandel Interaction Plots of Response for
+                        Pairs of Factors
+uncollide               spread out values to avoid collision in
+                        plotting
+unfactor                unclass factor (but keep numeric level)
